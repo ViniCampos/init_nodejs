@@ -19,3 +19,10 @@
 ###### ------------------------
 # exec jest (u should change packa.json to accept jest as alias test and not throw error)
     npm run test
+
+# MongoDb Creation 
+    https://cloud.mongodb.com/v2/
+    Database nodejsStudy
+    Login: vini
+    Senha: 1234
+    mongodb+srv://vini:<password>@nodejsstudy.mm6vg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
